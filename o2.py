@@ -641,10 +641,6 @@ def export_data():
 
 print("This is the end Hold your breath and count to ten Feel the Earth move and then Hear my heart burst again For this is the end I've drowned and dreamt this moment So overdue, I owe them Swept away, I'm stolen Let the sky fall When it crumbles We will stand tall Face it all together Let the sky fall When it crumbles We will stand tall Face it all together At Skyfall At Skyfall Skyfall is where we start A thousand miles and poles apart Where worlds collide and days are dark You may have my number, you can take my name But you'll never have my heart Let the sky fall (let the sky fall) When it crumbles (when it crumbles) We will stand tall (we will stand tall) Face it all together Let the sky fall (let the sky fall) When it crumbles (when it crumbles) We will stand tall (we will stand tall) Face it all together At Skyfallfall")
 
-Let the sky fall
-We will stand tall
-At Skyfall
-Ooh")
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5000)
 
